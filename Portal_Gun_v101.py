@@ -1,4 +1,4 @@
-# By Jerry Halflin for [REDACTED]
+# By Jerry for [REDACTED]
 
 # Iteration 1.01 of reddit bot: "Portal-Gun-Bot"
 
